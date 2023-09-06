@@ -12,3 +12,4 @@ def index(request):
 # TODO Create a view to edit TodoItem value
 # TODO Create a view to check/uncheck TodoItem
 # TODO models for all these
+delete all this
