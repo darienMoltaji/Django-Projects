@@ -1,3 +1,3 @@
 # Django-Projects\
 # starting tmrw tmrw
-# farda
+# farda fardatar
